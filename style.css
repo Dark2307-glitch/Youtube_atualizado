@@ -1,0 +1,18 @@
+@import url(/css/nav.css);
+@import url(/css/principal.css);
+@import url(/css/projetos.css);
+
+:root{
+    --cor-branca:white;
+    --cor-preta:black;
+    --cor-cinza:grey;
+}
+
+body{
+    background-color: var(--cor-preta);
+    color:var(--cor-branca);
+    font-size: 16px;
+    font-weight: 400;
+    font-family:"Kdam Thmor Pro", sans-serif;;
+    font-style: normal;
+}
